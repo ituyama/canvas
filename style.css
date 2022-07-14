@@ -150,10 +150,7 @@ h1{
   .messages{
   margin-top: 20vh;
   }
-  #canvas3d{
-    z-index: 23;
 
-  }
   .jumbotron{
     z-index: 30;
     position:fixed;
