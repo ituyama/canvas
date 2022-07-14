@@ -154,7 +154,9 @@ h1{
     width: 100vw;
     height: 100vh;
     z-index: 1;
-    position: static;
+    position: fixed;
+    top: 0px;
+    left: 0px;
   }
   .jumbotron{
     z-index: 30;
