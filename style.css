@@ -160,3 +160,9 @@ h1{
     left: 0px;
     background: none;
   }
+  nav{
+    position: fixed;
+    z-index: 200;
+    top: 0px;
+
+  }
